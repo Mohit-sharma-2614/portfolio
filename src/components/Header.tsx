@@ -8,7 +8,7 @@ export default function Header() {
         <div className="mb-8 relative">
           <div className="w-48 h-48 rounded-full overflow-hidden border-4 border-[#238636]">
             <img
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80"
+              src="https://photos.app.goo.gl/8CivRnfinGwffLde8"
               alt="Profile"
               className="w-full h-full object-cover"
             />
